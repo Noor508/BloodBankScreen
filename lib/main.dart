@@ -19,7 +19,7 @@ class MyCard extends StatelessWidget {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: const [
                   CircleAvatar(
-                    backgroundImage: AssetImage('images/LIVE.png'),
+                    backgroundImage: AssetImage('images/LIVE.jpg'),
                     radius: 40.0,
                   ),
                   Text('Live Share',
